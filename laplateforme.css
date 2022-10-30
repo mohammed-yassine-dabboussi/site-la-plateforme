@@ -1,0 +1,223 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    font-family: 'Roboto Slab', serif;
+}
+
+header{
+    background-color: rgb(255, 255, 255);
+    height: 90px;
+}
+
+.divHeader{
+    display: flex;
+    justify-content: space-between;
+    margin: 1%;
+}
+
+.listenav{
+   padding-left: 20%;
+    margin: 0;
+    width: 100%;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    color: #727272;
+}
+
+
+
+.logolaplateforme{
+    height: 62px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+.div1{
+    display: flex;
+    justify-content: space-between;
+    background-color: #336699;
+    width: 100%;
+    height: max-content;
+    
+}
+
+.div1_1{
+    margin: 10%;
+    width: 40%;
+    color: #FFFFFF;
+    font-size: x-large;
+}
+
+.div1_1_2{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.boutonRose{
+    background-color: #FF2063;
+    padding: 3px;
+    border-radius: 20px;
+    color: #FFFFFF; 
+    border-style: none;
+    width: 100%;
+}
+
+.condition{
+    font-size: small;
+}
+
+.img_1_2{
+    width: 50%;
+}
+
+.div2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    color: #336699;
+}
+
+.div3{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    height: 100%;
+   
+}
+
+.div3_123{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    height: 100%;
+    width:26%;
+    color:#336699;
+    
+}
+
+.imgdiv3{
+    height: 150px;
+    width: 150px;
+}
+
+.boutonJaune{
+    
+    background-color: #FFCA4B;
+    padding: 3px;
+    border-radius: 20px;
+    color: #FFFFFF; 
+    border-style: none;
+    margin: 5%;
+    padding: 2%;
+
+}
+
+.div5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+   
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.div_5_123{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    color: #336699;
+    width: 90%;
+
+}
+
+
+.div6{
+    height: 100%;
+    background-color: #FFA000;
+    padding: 5%;
+
+}
+
+.div_6_1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: #FFFFFF;
+    padding: 5%;
+}
+
+.div_6_2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.div7{
+    height: 100% ;
+    background-color: #313131;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  
+}
+
+.div7_1234{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #FFFFFF;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 20%;
+    
+}
+
+.div7_2{
+    display: flex;
+    margin: 10%;
+}
+
+.boutonDiv7{
+    width: 50%;
+    margin-left: 10%;
+    padding: 2%;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+    background-color: transparent;
+}
+
+.imageDiv7{
+    width: 50%;
+    margin-left: 10%;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    color: #FFFFFF;
+    background-color: rgb(0, 0, 0);
+    
+}
+
+
+.divFooter_2{
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+    width: 8%;
+    height: 30%;
+}
